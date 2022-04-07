@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Breno
 - 👀 I’m interested in Programming and Philosophy
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front End Projects
+- 💞️ I’m looking to collaborate on Front End
 
 
 <!---
