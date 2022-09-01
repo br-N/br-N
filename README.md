@@ -20,6 +20,9 @@
   <img align="center" alt="figma" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br-N&layout=compact&theme=tokyonight)](https://github.com/br-N/github-readme-stats)
+
 
 <!---
 br-N/br-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
