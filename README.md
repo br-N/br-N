@@ -1,6 +1,7 @@
 ## Hey, I’m Breno
-- I’m currently learning **React**
-- I’m looking to collaborate as a **Full Stack Dev**
+- I have a bachelor's degree in Science and Technology from the Federal University of São Paulo (UNIFESP).
+- I'm currently learning **React**
+- I'm looking to collaborate as a **Full Stack Dev**
 - My LinkedIn: <a href="https://www.linkedin.com/in/brenolambertini/" target="_blank"><img align="center" alt="breno-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 
