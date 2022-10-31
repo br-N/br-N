@@ -3,6 +3,8 @@
 
 - I have a bachelor's degree in Science and Technology from the Federal University of São Paulo (UNIFESP)
 
+- My Portfolio: https://brn.vercel.app
+
 - My LinkedIn: <a href="https://www.linkedin.com/in/brenolambertini/" target="_blank"><img align="center" alt="breno-linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 
