@@ -1,6 +1,4 @@
-## Hey, I’m Breno
-
-**OPEN TO WORK**
+## OPEN TO WORK
 
 • I have a bachelor's degree in Science and Technology from the Federal University of São Paulo (UNIFESP)
 
