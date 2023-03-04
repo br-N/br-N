@@ -1,4 +1,4 @@
-## OPEN TO WORK
+## Hi! Welcome to my profile!
 
 • I have a bachelor's degree in Science and Technology from the Federal University of São Paulo (UNIFESP)
 
